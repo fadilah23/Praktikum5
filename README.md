@@ -29,11 +29,15 @@ Berikut ini Penjelasannya :
 - Pertama instal terlebih dahulu <b>PrettyTable</b>	yang sudah disediakan di phyton untuk pembuatan tabelnya dengan cara dengan menggunakan perintah ```pip instal PrettyTable``` pada cli
 - Lalu import PrettyTable terlebih dahulu kedalam program kita agar Program bisa digunakan dengan menggunakan perintah 
 
-```form prettytable import PrettyTable```
+```python
+form prettytable import PrettyTable
+```
 
 - Setelah Program berhasil buatlah tabel dengan menggunakan perintah 
 
-```Tabel = PrettyTable(["No", "Nama", "NIM", "Nilai Tugas", "Nilai UTS", "Nilai UAS", "Nilai Akhir"])```
+```pyhton
+Tabel = PrettyTable(["No", "Nama", "NIM", "Nilai Tugas", "Nilai UTS", "Nilai UAS", "Nilai Akhir"])
+```
 
 
 

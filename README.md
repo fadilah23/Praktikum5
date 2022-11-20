@@ -77,3 +77,4 @@ untuk hasilnya akan seperti ini
 <img width="958" alt="ss3" src="https://user-images.githubusercontent.com/115479946/202912946-130ed7d0-a206-4686-885b-02045f3b6839.png">
 
 
+# Sekian Terima Kasih 
